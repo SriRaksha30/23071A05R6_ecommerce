@@ -58,6 +58,9 @@ function Catalogue() {
                     </li>
                 ))}
             </ul> */}
+            <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
         </div>
     );
 }

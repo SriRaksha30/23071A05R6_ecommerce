@@ -21,6 +21,9 @@ const About = () => (
         <p>
             Have questions or feedback? Reach out to us at <a href="mailto:support@emcommerce.com">support@emcommerce.com</a>.
         </p>
+        <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
     </div>
 );
 

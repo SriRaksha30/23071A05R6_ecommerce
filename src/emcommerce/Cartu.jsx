@@ -71,6 +71,9 @@ const Cartu = () => {
                     <h3>Total: ${getTotal()}</h3>
                 </div>
             )}
+            <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
         </div>
     );
 };

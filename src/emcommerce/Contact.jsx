@@ -30,6 +30,9 @@ const Contact = () => {
                 <p>Phone: +91 98765 43210</p>
                 <p>Address: 123 Study circle, hyderabad City, India</p>
             </div>
+            <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
         </div>
     );
 };

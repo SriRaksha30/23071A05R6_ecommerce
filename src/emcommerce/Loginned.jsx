@@ -41,6 +41,9 @@ function Loginned() {
                 </div>
                 <button type="submit" style={{ width: '100%', padding: 10 }}>Login</button>
             </form>
+            <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
         </div>
     );
 }

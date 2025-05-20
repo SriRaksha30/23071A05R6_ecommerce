@@ -209,6 +209,9 @@ const Registerr = () => {
                     Register
                 </button>
             </form>
+            <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
         </div>
     );
 };

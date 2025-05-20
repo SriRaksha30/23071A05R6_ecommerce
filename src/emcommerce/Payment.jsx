@@ -84,6 +84,9 @@ const Payment = () => {
                 </div>
                 <button type="submit" style={{ width: "100%" }}>Pay Now</button>
             </form>
+            <footer>
+                <p >23071A05R6 @copyrights</p>
+            </footer>
         </div>
     );
 };
